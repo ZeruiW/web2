@@ -13,7 +13,7 @@ timezone: America/New_York
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ZeruiW.github.io
+url: https://www.deep-learning.ca
 permalink: post/:abbrlink.html
 addrlink:
     alg: crc32
@@ -113,8 +113,11 @@ deploy:
   name: ZeruiW
   email: wangzerui418@gmail.com
   ignore_hidden: true
-  ignore_pattern: 
-      CNAME 
+  ignore_pattern: []
+
+
+cname: www.deep-learning.ca
+
 
 hexo_submit_urls_to_search_engine:
   # 提交最新的 n 个链接
