@@ -36,6 +36,10 @@ jobs:
         run: npx hexo generate
 
       - name: Deploy
-        run: npx hexo deploy
+        run: |
+          git config --global user.name "ZeruiW"
+          git config --global user.email "wangzerui418@gmail.com"
+          npx hexo deploy
         env:
           GH_TOKEN: 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
+
