@@ -5,7 +5,7 @@ abbrlink: 1906
 date: 2023-03-19 21:08:54
 cover:
 ---
-ttttttttttttttt
+
 1. Title: Trends in Explainable AI (XAI) Literature
 
 2. Authors: Alon Jacovi
